@@ -9,6 +9,7 @@ public class DepartmentServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DepartmentServiceApplication.class, args);
 		//changes added in staging
+		//test the diff command of GIT
 	}
 
 }
